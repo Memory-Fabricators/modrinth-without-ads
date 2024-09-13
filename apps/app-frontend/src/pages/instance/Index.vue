@@ -61,7 +61,6 @@
           </RouterLink>
         </div>
       </Card>
-      <PromotionWrapper ref="promo" class="mt-4" />
     </div>
     <div class="content">
       <RouterView v-slot="{ Component }">
